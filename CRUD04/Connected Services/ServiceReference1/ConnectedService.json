@@ -1,0 +1,19 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://int.certifac.mx:9006/"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "C:\\Users\\DESTSJ002\\Documents\\Respaldo_Notas\\proyectos\\CRUD03\\CRUD04\\bin\\Debug\\net5.0\\CRUD03.dll"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "Specified"
+  }
+}

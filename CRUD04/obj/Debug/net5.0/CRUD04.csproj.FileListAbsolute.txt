@@ -73,3 +73,12 @@ C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\ne
 C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\FreeSql.DbContext.dll
 C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\zh-Hans\FreeSql.resources.dll
 C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\zh-Hans\FreeSql.DbContext.resources.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\OpenAPIs\.json
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD04\bin\Debug\net5.0\System.ServiceModel.Security.dll
