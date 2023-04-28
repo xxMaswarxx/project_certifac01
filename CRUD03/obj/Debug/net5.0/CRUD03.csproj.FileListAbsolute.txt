@@ -1,0 +1,15 @@
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\CRUD03.deps.json
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\CRUD03.runtimeconfig.json
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\CRUD03.runtimeconfig.dev.json
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\CRUD03.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\ref\CRUD03.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\bin\Debug\net5.0\CRUD03.pdb
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.AssemblyInfoInputs.cache
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.AssemblyInfo.cs
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.csproj.CoreCompileInputs.cache
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\ref\CRUD03.dll
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.pdb
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.genruntimeconfig.cache
+C:\Users\DESTSJ002\Documents\Respaldo_Notas\proyectos\CRUD03\CRUD03\obj\Debug\net5.0\CRUD03.csproj.AssemblyReference.cache
